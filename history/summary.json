@@ -1,22 +1,22 @@
 [
   {
     "name": "Mobile App API",
-    "url": "https://production-api.fluidcoins.com",
+    "url": "https://production-api.fluidcoins.com/health",
     "icon": "https://favicons.githubusercontent.com/production-api.fluidcoins.com",
     "slug": "mobile-app-api",
-    "status": "down",
-    "uptime": "5.29%",
-    "uptimeDay": "5.29%",
-    "uptimeWeek": "5.29%",
-    "uptimeMonth": "5.29%",
-    "uptimeYear": "5.29%",
-    "time": 208,
-    "timeDay": 208,
-    "timeWeek": 208,
-    "timeMonth": 208,
-    "timeYear": 208,
+    "status": "up",
+    "uptime": "1.01%",
+    "uptimeDay": "1.01%",
+    "uptimeWeek": "1.01%",
+    "uptimeMonth": "1.01%",
+    "uptimeYear": "1.01%",
+    "time": 309,
+    "timeDay": 309,
+    "timeWeek": 309,
+    "timeMonth": 309,
+    "timeYear": 309,
     "dailyMinutesDown": {
-      "2021-04-28": 0
+      "2021-04-28": 6
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 887,
-    "timeDay": 887,
-    "timeWeek": 887,
-    "timeMonth": 887,
-    "timeYear": 887,
+    "time": 560,
+    "timeDay": 560,
+    "timeWeek": 560,
+    "timeMonth": 560,
+    "timeYear": 560,
     "dailyMinutesDown": {}
   }
 ]
