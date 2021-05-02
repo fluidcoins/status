@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/production-api.fluidcoins.com",
     "slug": "mobile-app-api",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 424,
-    "timeDay": 428,
-    "timeWeek": 424,
-    "timeMonth": 424,
-    "timeYear": 424,
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 410,
+    "timeDay": 324,
+    "timeWeek": 410,
+    "timeMonth": 410,
+    "timeYear": 410,
     "dailyMinutesDown": {
       "2021-04-28": 6
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 427,
-    "timeDay": 953,
-    "timeWeek": 427,
-    "timeMonth": 427,
-    "timeYear": 427,
+    "time": 418,
+    "timeDay": 363,
+    "timeWeek": 418,
+    "timeMonth": 418,
+    "timeYear": 418,
     "dailyMinutesDown": {}
   }
 ]
