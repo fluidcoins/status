@@ -4,18 +4,19 @@
     "url": "https://production-api.fluidcoins.com/health",
     "icon": "https://favicons.githubusercontent.com/production-api.fluidcoins.com",
     "slug": "mobile-app-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 328,
-    "timeDay": 188,
-    "timeWeek": 247,
+    "timeDay": 258,
+    "timeWeek": 257,
     "timeMonth": 328,
     "timeYear": 328,
     "dailyMinutesDown": {
+      "2021-05-09": 0,
       "2021-04-28": 6
     }
   },
