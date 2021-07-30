@@ -1,7 +1,7 @@
 url: https://production-api.fluidcoins.com/health
-status: up
-code: 200
-responseTime: 1257
-lastUpdated: 2021-07-30T07:15:52.063Z
+status: down
+code: 504
+responseTime: 15258
+lastUpdated: 2021-07-30T07:29:16.209Z
 startTime: Wed Apr 28 2021 13:22:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
